@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "6NsoX5Y9t/g=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\arjun\\Downloads\\junk\\NetMicroservicesBasics\\source_code\\Play.Catalog\\src\\Play.Catalog.Contracts\\Play.Catalog.Contracts.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\arjun\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\arjun\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\arjun\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
